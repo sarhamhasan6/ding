@@ -21,6 +21,13 @@ body {
     border: 2px solid #ffb6c1; /* Light pink border */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     animation: fadeIn 3s ease-in-out, borderGlow 2s infinite;
+    position: relative;
+}
+
+.romantic-image {
+    width: 10%;
+    border-radius: 15px 15px 0 0;
+    margin-bottom: 20px;
 }
 
 .romantic-paragraph {
